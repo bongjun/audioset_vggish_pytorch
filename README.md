@@ -1,6 +1,9 @@
 # AudioSet-VGGish model in pytorch
 A PyTorch implementation of [Google's VGGish model for AudioSet](https://github.com/tensorflow/models/tree/master/research/audioset)
 
+# Model
+[Download the pretrained model](https://drive.google.com/open?id=1W_cIgB4Y3k10Un8445UTL3EL0QhI9BNd)
+
 # To do
 To make sure the pytorch model works in the same way with the tensorflow model
 - [ ] Check if they output the same embedding given an audio recording.
